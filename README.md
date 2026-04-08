@@ -56,7 +56,7 @@ The analysis does not attempt to explain these patterns; they are offered as dir
 | 01 | `notebooks/01_ABSA_NLI_Aspect_Detection.ipynb` | Colab GPU recommended | NLI-based aspect detection |
 | 02 | `notebooks/02_ABSA_LLM_Sentiment_Evaluation.ipynb` | Colab GPU recommended | LLM sentiment scoring |
 | 03 | `notebooks/03_ABSA_Aspect_Sentiment_Analysis.ipynb` | Suitable for running locally | Aspect frequency analysis, sentiment distribution across 15 service dimensions, word clouds for top aspects, and VADER baseline comparison |
-| 04 | `notebooks/04_tourism_volume_comparison_example.ipynb` | Suitable for running locally | Tourism volume comparison use case |
+| 04 | `notebooks/04_NYC_Visitation_Volume_Comparison.ipynb` | Suitable for running locally | Tourism volume comparison use case |
 
 ---
 
