@@ -1,8 +1,8 @@
-# Ignore all files in data/
-data/*
+# Ignore processed files
+data/processed/*
 
-# But keep .gitkeep in the folder
-!data/.gitkeep
+# Keep the folder with .gitkeep
+!data/processed/.gitkeep
 
 __pycache__/
 .ipynb_checkpoints/
