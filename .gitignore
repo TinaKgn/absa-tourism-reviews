@@ -1,4 +1,9 @@
-data/
+# Ignore all files in data/
+data/*
+
+# But keep .gitkeep in the folder
+!data/.gitkeep
+
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
